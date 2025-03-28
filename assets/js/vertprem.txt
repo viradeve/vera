@@ -1,4 +1,4 @@
-﻿MessageBox("Vert PROXY", "Proxy Started.")
+MessageBox("Vert PROXY", "Proxy Started.")
 
 function FChat(txt)
     p = {}
